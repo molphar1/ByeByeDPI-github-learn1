@@ -69,3 +69,5 @@ SHA-256:
 ### Зависимости
 - [ByeDPI](https://github.com/hufrea/byedpi)
 - [hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel)
+
+### smth is changed
